@@ -1,0 +1,49 @@
+bruit_sigma,debruitage,segmentation,dice_eau,dice_corium,dice_vapeur,ecart_type_vapeur
+0.02,aucun,Otsu (3 classes),0.757,0.98,0.349,0.098
+0.02,aucun,k-means (k=3),0.766,0.979,0.355,0.094
+0.02,aucun,k-means + contexte,0.747,0.952,0.343,0.096
+0.02,aucun,Forêt aléatoire (supervisé),0.979,0.99,0.815,0.076
+0.02,gaussien,Otsu (3 classes),0.761,0.971,0.363,0.105
+0.02,gaussien,k-means (k=3),0.77,0.97,0.372,0.112
+0.02,gaussien,k-means + contexte,0.742,0.934,0.34,0.097
+0.02,gaussien,Forêt aléatoire (supervisé),0.98,0.987,0.828,0.08
+0.02,médian,Otsu (3 classes),0.758,0.974,0.363,0.106
+0.02,médian,k-means (k=3),0.774,0.974,0.37,0.105
+0.02,médian,k-means + contexte,0.744,0.943,0.343,0.099
+0.02,médian,Forêt aléatoire (supervisé),0.981,0.986,0.832,0.075
+0.02,NLM,Otsu (3 classes),0.756,0.98,0.366,0.108
+0.02,NLM,k-means (k=3),0.803,0.981,0.406,0.132
+0.02,NLM,k-means + contexte,0.748,0.952,0.347,0.101
+0.02,NLM,Forêt aléatoire (supervisé),0.981,0.99,0.832,0.082
+0.04,aucun,Otsu (3 classes),0.72,0.966,0.311,0.086
+0.04,aucun,k-means (k=3),0.726,0.966,0.314,0.085
+0.04,aucun,k-means + contexte,0.748,0.949,0.336,0.092
+0.04,aucun,Forêt aléatoire (supervisé),0.976,0.986,0.785,0.077
+0.04,gaussien,Otsu (3 classes),0.762,0.97,0.363,0.105
+0.04,gaussien,k-means (k=3),0.765,0.969,0.366,0.105
+0.04,gaussien,k-means + contexte,0.744,0.933,0.34,0.096
+0.04,gaussien,Forêt aléatoire (supervisé),0.979,0.985,0.809,0.079
+0.04,médian,Otsu (3 classes),0.753,0.97,0.356,0.103
+0.04,médian,k-means (k=3),0.785,0.971,0.382,0.118
+0.04,médian,k-means + contexte,0.746,0.941,0.344,0.099
+0.04,médian,Forêt aléatoire (supervisé),0.978,0.983,0.805,0.078
+0.04,NLM,Otsu (3 classes),0.75,0.975,0.361,0.112
+0.04,NLM,k-means (k=3),0.774,0.975,0.385,0.116
+0.04,NLM,k-means + contexte,0.746,0.95,0.344,0.099
+0.04,NLM,Forêt aléatoire (supervisé),0.98,0.987,0.824,0.08
+0.06,aucun,Otsu (3 classes),0.695,0.942,0.286,0.078
+0.06,aucun,k-means (k=3),0.702,0.942,0.289,0.078
+0.06,aucun,k-means + contexte,0.727,0.943,0.315,0.087
+0.06,aucun,Forêt aléatoire (supervisé),0.973,0.982,0.755,0.076
+0.06,gaussien,Otsu (3 classes),0.76,0.969,0.359,0.1
+0.06,gaussien,k-means (k=3),0.766,0.968,0.363,0.102
+0.06,gaussien,k-means + contexte,0.744,0.932,0.341,0.096
+0.06,gaussien,Forêt aléatoire (supervisé),0.976,0.982,0.788,0.082
+0.06,médian,Otsu (3 classes),0.746,0.968,0.346,0.094
+0.06,médian,k-means (k=3),0.774,0.968,0.371,0.115
+0.06,médian,k-means + contexte,0.741,0.939,0.341,0.097
+0.06,médian,Forêt aléatoire (supervisé),0.975,0.981,0.773,0.082
+0.06,NLM,Otsu (3 classes),0.737,0.97,0.35,0.102
+0.06,NLM,k-means (k=3),0.748,0.97,0.357,0.108
+0.06,NLM,k-means + contexte,0.744,0.948,0.341,0.097
+0.06,NLM,Forêt aléatoire (supervisé),0.978,0.983,0.809,0.078
